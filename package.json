@@ -17,7 +17,7 @@
   },
   "publishConfig": {
    "@gang01:registry": "https://npm.pkg.github.com"
-  }
+  },
   "homepage": "https://github.com/Gang01/dockpage#readme"
  }
 }
