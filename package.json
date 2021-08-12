@@ -1,0 +1,19 @@
+{
+  "name": "@gang01/firstpackage",
+  "version": "1.0.0",
+  "description": "description dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gang01/dockpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gang01/dockpage/issues"
+  },
+  "homepage": "https://github.com/Gang01/dockpage#readme"
+}
