@@ -16,5 +16,8 @@
     "url": "https://github.com/Gang01/dockpage/issues"
   },
 
-  "homepage": "https://github.com/Gang01/dockpage#readme"
+  "homepage": "https://github.com/Gang01/dockpage#readme",
+  "publishConfig": {
+   "@Gang01/dockpage:registry": "https://npm.pkg.github.com"
+}
 }
